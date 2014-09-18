@@ -1,7 +1,7 @@
 DataProductsProject
 ===================
 
-[Developing Data Product Proyect](https://class.coursera.org/devdataprod-005/human_grading/view/courses/972600/assessments/5/submissions)  
+[Developing Data Product Project](https://class.coursera.org/devdataprod-005/human_grading/view/courses/972600/assessments/5/submissions)  
 
 
 Temperature Converter
