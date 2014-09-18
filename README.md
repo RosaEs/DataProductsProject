@@ -11,8 +11,8 @@ Celsius to Fahrenheit Converter.
 
 Documentation file: index.md  
 
-Rstudio's shiny Server  
-/converterApp/  
+Rstudio's shiny Server 
+In directory: converterApp/  
 server.R  
 ui.R  
 
